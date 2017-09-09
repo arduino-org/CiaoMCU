@@ -7,14 +7,14 @@ Simple library in C++ to allow an MCU to communicate with the "outside World" th
 
 Arduino Ciao is open-source and distributed under MIT license: Feel free to read it, suggest improvements, provide feedback, and develop new features.
 
-More information about Arduino Ciao project can be found at http://labs.arduino.org/Ciao
+More information about Arduino Ciao project can be found at https://www.arduino.cc/en/Reference/Ciao
 
 ### Arduino Ciao (MCU side) - Ciao Library
 
 Arduino Ciao is made of two main parts:
  * the **Ciao Library** - usable inside *sketches*, it's written in C++.
- * the [Ciao Core](http://labs.arduino.org/Ciao+CPU) - a library developed in Python that runs on the CPU/MIPS side of the board.(source code available [here](https://github.com/arduino-org/Ciao))
+ * the Ciao Core - a library developed in Python that runs on the CPU/MIPS side of the board.(source code available [here](https://github.com/arduino-org/Ciao))
 
 **Ciao Library**  allows you to send and receive data outside the microcontroller, through a serial communication, in a simple and intuitive way.
 
-Details about **Ciao Library** architecture are available on the [Arduino wiki](http://labs.arduino.org/Ciao+MCU)
+Details about **Ciao Library** architecture are available on the [library reference page](https://www.arduino.cc/en/Reference/Ciao)
